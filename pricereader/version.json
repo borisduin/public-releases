@@ -8,5 +8,6 @@
   "forceUpdate": false,
   "sha256": "b5994f02b1e48ffac2bca1490d6676b9e8fdae2cdeebaa692d014f5347d2e185",
   "publishedAt": "2026-09-19T20:30:00Z",
-  "releaseNotes": "Versi\u00f3n 1.3.0 (Build 5) de PriceReader disponible."
+  "releaseNotes": "Versi\u00f3n 1.3.0 (Build 5) de PriceReader disponible.",
+  "latestDownloadUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-latest/pricereader.apk"
 }
