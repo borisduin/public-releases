@@ -4,3 +4,4 @@ Public binary distribution and version manifest hub for Boris Duin mobile & desk
 
 ## Directory Structure
 -  — Android APK releases and  manifest for the Mi Quiniela mobile app.
+- `pricereader/` — Android APK releases and `version.json` manifest for the PriceReader kiosk scanner app.
