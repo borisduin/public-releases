@@ -4,9 +4,9 @@
   "minSupportedVersionCode": 5,
   "forceUpdate": false,
   "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.4.0/quiniela-mobile-v1.4.0.apk",
-  "publishedAt": "2026-09-19T20:45:00Z",
+  "publishedAt": "2026-09-19T22:48:57.575Z",
   "releaseNotes": {
-    "es": "Versión 1.4.0: soporte de biometría y actualización automática desde repositorio público.",
-    "en": "Version 1.4.0: biometric support and automatic updates via public release hub."
+    "es": "Versión 1.4.0 (Build 6) disponible.",
+    "en": "Version 1.4.0 (Build 6) available."
   }
 }
