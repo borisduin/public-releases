@@ -1,13 +1,25 @@
 {
-  "version": "1.4.0",
-  "versionCode": 6,
-  "minSupportedVersionCode": 5,
+  "version": "1.15.0",
+  "versionCode": 17,
+  "minSupportedVersionCode": 16,
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-latest/quiniela-mobile-latest.apk",
-  "versionedDownloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.4.0/quiniela-mobile-v1.4.0.apk",
-  "publishedAt": "2026-09-19T23:25:00.000Z",
+  "deprecated": false,
+  "runtime": "kotlin-android-native",
+  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.15.0/quiniela-mobile-v1.15.0.apk",
+  "publishedAt": "2026-09-20T21:07:07Z",
   "releaseNotes": {
-    "es": "Versi\u00f3n 1.4.0 (Build 6) disponible.",
-    "en": "Version 1.4.0 (Build 6) available."
-  }
+    "es": "Versión 1.15.0 (Build 17) — migración a Kotlin Android nativo completa.",
+    "en": "Version 1.15.0 (Build 17) — Kotlin Android native migration complete."
+  },
+  "previousReleases": [
+    {
+      "version": "1.4.0",
+      "versionCode": 6,
+      "runtime": "expo-react-native",
+      "deprecated": true,
+      "deprecatedAt": "2026-09-20T21:07:07Z",
+      "deprecatedReason": "Superseded by Kotlin Android native rewrite (quiniela-mobile Kotlin branch migration/kotlin-android-native @ faca086). Old v1.4.0 APK remains accessible for legacy clients at https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.4.0/quiniela-mobile-v1.4.0.apk",
+      "legacyDownloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.4.0/quiniela-mobile-v1.4.0.apk"
+    }
+  ]
 }
