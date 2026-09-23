@@ -1,1 +1,12 @@
-{"hello":"world"}
+{
+  "version": "1.17.1",
+  "versionCode": 22,
+  "minSupportedVersionCode": 20,
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.17.1/quiniela-mobile-v1.17.1.apk",
+  "publishedAt": "2026-09-23T00:08:27Z",
+  "releaseNotes": {
+    "es": "v 1.17.1 test",
+    "en": "v 1.17.1 test"
+  }
+}
