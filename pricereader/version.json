@@ -1,9 +1,1 @@
-{
-  "versionCode": 13,
-  "versionName": "1.7.1",
-  "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.1/app-release.apk",
-  "sha256": "4b73d671bc2b6be9a29d84a20ebc889cf8af99aafc620b0a295cc1e9713fe7ef",
-  "releaseNotes": "Fixes del 23-sep-2026: (1) Settings - el campo Correo del reporte de sincronización ya acepta tipeo con el switch activo. (2) Catálogo PDF - ya no genera archivos de 0 bytes, priceLevel fijo en 1, paginación más allá de 10k SKUs.",
-  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.1/app-release.apk"
-}
+{"versionCode":14,"versionName":"1.7.2","minSupportedVersionCode":1,"apkUrl":"https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.2/app-release.apk","sha256":"fb2f1678a964b71ffbc3d66976969f85ad6f34fce46245e31cb54ffaca10e5ac","releaseNotes":"Fixes confirmados en dispositivo: (1) Switch Sync Report Email ya no se desactiva solo. (2) Catalogo PDF ya no genera 0 bytes (paginacion en batches de 100). Suite 61 tests verde.","downloadUrl":"https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.2/app-release.apk"}
