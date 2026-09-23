@@ -4,9 +4,9 @@
   "minSupportedVersionCode": 20,
   "forceUpdate": false,
   "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.17.1/quiniela-mobile-v1.17.1.apk",
-  "publishedAt": "2026-09-23T00:08:27Z",
+  "publishedAt": "2026-09-23T00:08:34Z",
   "releaseNotes": {
-    "es": "v 1.17.1 test",
-    "en": "v 1.17.1 test"
+    "es": "Version 1.17.1 (Build 22) disponible. ATENCIÓN: si vienes de v1.17.0 hay que desinstalar y reinstalar porque el certificado de firma cambió (rollback a la llave del KEY de Hermes).",
+    "en": "Version 1.17.1 (Build 22) available. WARNING: if you are on v1.17.0 you must uninstall and reinstall (signing cert changed — rollback to the key the Hermes KEY opens)."
   }
 }
