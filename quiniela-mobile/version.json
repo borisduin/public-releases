@@ -1,12 +1,21 @@
 {
-  "version": "1.17.1",
-  "versionCode": 22,
+  "version": "1.17.2",
+  "versionCode": 23,
   "minSupportedVersionCode": 20,
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.17.1/quiniela-mobile-v1.17.1.apk",
-  "publishedAt": "2026-09-23T00:08:34Z",
+  "signing_cert_sha256": "900f63bc89b0f1306d2e5903a639af6a7e46a7dca7341a77acee383f4dbbf92c",
+  "previous_signing_cert_sha256": "900f63bc89b0f1306d2e5903a639af6a7e46a7dca7341a77acee383f4dbbf92c",
+  "upgrade_install_mode": "in-place",
+  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.17.2/quiniela-mobile-v1.17.2.apk",
+  "apk_sha256": "1f59285ac04011fe050a7d4a765d11c5f6afa704017738b6171a2ed75f4a4c33",
+  "apk_size_bytes": 26707164,
+  "released_at": "2026-09-23T04:55:00Z",
+  "publishedAt": "2026-09-23T04:55:00Z",
+  "github_release_tag": "quiniela-mobile-v1.17.2",
+  "github_release_id": 394309303,
+  "github_release_url": "https://github.com/borisduin/public-releases/releases/tag/quiniela-mobile-v1.17.2",
   "releaseNotes": {
-    "es": "Version 1.17.1 (Build 22) disponible. ATENCIÓN: si vienes de v1.17.0 hay que desinstalar y reinstalar porque el certificado de firma cambió (rollback a la llave del KEY de Hermes).",
-    "en": "Version 1.17.1 (Build 22) available. WARNING: if you are on v1.17.0 you must uninstall and reinstall (signing cert changed — rollback to the key the Hermes KEY opens)."
+    "es": "v1.17.2 (Build 23) — FIX: la pantalla Crear cuenta dejaba SupabaseURL vacía y la app caía al default localhost del SDK. Carga .env desde scripts/load-env.sh, fail-loud en Gradle y test de regresión. Misma firma (cert 900f63bc…), in-place sobre v1.17.1.",
+    "en": "v1.17.2 (Build 23) — FIX: Register screen let SupabaseURL go empty and the app fell back to the SDK localhost default. .env loader via scripts/load-env.sh, fail-loud in Gradle, regression test added. Same signing cert (900f63bc…), in-place install over v1.17.1."
   }
 }
