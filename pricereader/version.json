@@ -1,1 +1,9 @@
-{"versionCode": 9, "versionName": "1.4.1", "minSupportedVersionCode": 1, "apkUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-latest/pricereader.apk", "sha256": "da79a917afedc1133be11760715af1bf40af2c84f507a3a0d9d311ac647d8981", "releaseNotes": "Bugfix: la generación del PDF del catálogo volvía sin productos cuando la búsqueda estaba vacía (LIKE '' solo matchea strings vacíos). Ahora un patrón vacío devuelve el catálogo completo.", "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-latest/pricereader.apk"}
+{
+  "versionCode": 13,
+  "versionName": "1.7.1",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.1/app-release.apk",
+  "sha256": "4b73d671bc2b6be9a29d84a20ebc889cf8af99aafc620b0a295cc1e9713fe7ef",
+  "releaseNotes": "Fixes del 23-sep-2026: (1) Settings - el campo Correo del reporte de sincronización ya acepta tipeo con el switch activo. (2) Catálogo PDF - ya no genera archivos de 0 bytes, priceLevel fijo en 1, paginación más allá de 10k SKUs.",
+  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.1/app-release.apk"
+}
