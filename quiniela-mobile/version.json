@@ -1,22 +1,22 @@
 {
-  "version": "1.18.2",
-  "versionCode": 26,
-  "minSupportedVersionCode": 24,
+  "version": "1.19.1",
+  "versionCode": 29,
+  "minSupportedVersionCode": 27,
   "forceUpdate": false,
   "signing_cert_sha256": "900f63bc89b0f1306d2e5903a639af6a7e46a7dca7341a77acee383f4dbbf92c",
   "previous_signing_cert_sha256": "900f63bc89b0f1306d2e5903a639af6a7e46a7dca7341a77acee383f4dbbf92c",
   "upgrade_install_mode": "in-place",
-  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.18.2/quiniela-mobile-v1.18.2.apk",
-  "apk_sha256": "04e9972ae15827c82f209c07dd9d4c2026e3b9790ce7c4d98c3ddc3f2a7258ca",
-  "apk_size_bytes": 26822984,
-  "released_at": "2026-09-23T18:05:05Z",
-  "publishedAt": "2026-09-23T18:05:05Z",
-  "github_release_tag": "quiniela-mobile-v1.18.2",
-  "github_release_id": 394926885,
-  "github_release_url": "https://github.com/borisduin/public-releases/releases/tag/quiniela-mobile-v1.18.2",
+  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.19.1/quiniela-mobile-v1.19.1.apk",
+  "apk_sha256": "74f472ef50720ad318b79067e4b65b98787c926c058e722de896325cb8d3a8fe",
+  "apk_size_bytes": 26880944,
+  "released_at": "2026-09-24T19:24:43Z",
+  "publishedAt": "2026-09-24T19:24:43Z",
+  "github_release_tag": "quiniela-mobile-v1.19.1",
+  "github_release_id": 396008107,
+  "github_release_url": "https://github.com/borisduin/public-releases/releases/tag/quiniela-mobile-v1.19.1",
   "releaseNotes": {
-    "es": "Version 1.18.2 (Build 26) disponible.",
-    "en": "Version 1.18.2 (Build 26) available."
+    "es": "Version 1.19.1 (Build 29) disponible.",
+    "en": "Version 1.19.1 (Build 29) available."
   },
   "deprecated": false,
   "runtime": "kotlin-android-native",
@@ -44,6 +44,14 @@
       "deprecated": true,
       "deprecatedReason": "Superseded by v1.18.2",
       "legacyDownloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.18.1/quiniela-mobile-v1.18.1.apk"
+    },
+    {
+      "version": "1.18.2",
+      "versionCode": 26,
+      "runtime": "kotlin-android-native",
+      "deprecated": true,
+      "deprecatedReason": "Superseded by v1.19.1",
+      "legacyDownloadUrl": "https://github.com/borisduin/public-releases/releases/download/quiniela-mobile-v1.18.2/quiniela-mobile-v1.18.2.apk"
     }
   ]
 }
