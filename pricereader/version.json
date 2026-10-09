@@ -1,1 +1,9 @@
-{"versionCode":18,"versionName":"1.7.6","minSupportedVersionCode":1,"apkUrl":"https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.6/app-release.apk","sha256":"73486bc036bbd863a8f65370f7ddae4df5d367d797dd3ffbaf9512f551b1b674","releaseNotes":"Fix: el switch \"Iniciar al encender el equipo\" ya no se apaga solo y la app arranca de verdad al encender el equipo (exencion BAL via \"Mostrar sobre otras apps\" + throttle con reloj de pared). Verificado en R9PTB1NQ1YR con reinicio real.","downloadUrl":"https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.6/app-release.apk"}
+{
+  "versionCode": 19,
+  "versionName": "1.7.7",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.7/app-release.apk",
+  "sha256": "698422ec88c98cc411251945be6ae12fe0f7830cac812cd1cc80de52b8741aed",
+  "releaseNotes": "Fix: el campo de búsqueda ya no se ve con texto negro invisible en modo oscuro cuando la pantalla está en horizontal (tablet): se reemplazó `textColor`/`textColorHint` hardcodeados por `?attr/colorOnSurface` para que el color lo gobierne el tema Material, con alpha 0.87 en el hint para mantener el contraste contra la superficie oscura #2A2435.",
+  "downloadUrl": "https://github.com/borisduin/public-releases/releases/download/pricereader-v1.7.7/app-release.apk"
+}
